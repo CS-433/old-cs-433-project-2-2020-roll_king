@@ -18,7 +18,9 @@ The packages used in the project can be installed using:
 ``pip install ntlk``
 
 ## Structure
-**train_models.ipynb:** contains the code to fine-tune transformers including BERT, GPT2, BIGBIRD, and BERT followed by downstream classifiers. 
+**train_models.ipynb:** contains the code to fine-tune transformers including BERT, GPT2, BIGBIRD, and BERT followed by downstream classifiers.
+
+**random_forest.ipynb:** contains the code to ensemble five trained models with random forest.
 
 **run.py:** contains the code to produce exactly the same .csv predictions which we used in our best submission to the competition system.
 
