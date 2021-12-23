@@ -37,13 +37,17 @@ The packages used in the project can be installed using:
 ``pip install Sentencepiece``
 
 ## Structure
-**train_models.ipynb:** contains the code to fine-tune transformers including BERT, GPT2, BIGBIRD, and BERT followed by downstream classifiers.
+**train_models.ipynb:** contains the code to: 
+ - Fine tune BERT
+ - Fine tune GPT2
+ - Fine tune BIGBIRD
+ - BERT word embedding + BiLSTM
+ - BERT word embedding + TextCNN
+ - Fine tune BERT on large data set
+ - Fine-tune BERT with multi-label data
+ fine-tune transformers including BERT, GPT2, BIGBIRD, and BERT followed by downstream classifiers.
 
 **random_forest.ipynb:** contains the code to ensemble five trained models with random forest.
-
-**run.py:** contains the code to produce exactly the same .csv predictions which we used in our best submission to the competition system.
-
-**proj1_helpers.py:** contains the functions provided by instructors
 
 ## Instuctions
 The feature engineering and models evaluations can be reproduced in:
