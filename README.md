@@ -12,10 +12,17 @@ Members:
 - Siran Li (321825)
 
 ## Datasets 
+
 1. News reports: 143, 000 articles from 15 American publications [[1]](#1).
 2. Ted 2020 Parallel Sentences Corpus: around 4000 TED Talk transcripts from July 2020 [[2]](#2).
 3. Wikipedia corpus: over 10 million topics [[3]](#3).
 4. Topical-Chat: human dialog conversations spanning 8 broad topics [[4]](#4).
+
+## Transformers
+
+1. Generative Pre-trained Transformer 2 (GPT-2) [[5]](#5).
+2. Bidirectional Encoder Representations from Trans-formers (BERT) [[6]](#6).
+3. Big Bird: Transformers for Longer Sequences [[7]](#7).
 
 ## Notes
 The packages used in the project can be installed using:
@@ -63,6 +70,15 @@ W.   Foundation.   Wikimedia   downloads.
 <a id="4">[4]</a> 
 K.  Gopalakrishnan,  B.  Hedayatnia,  Q.  Chen,  A.  Gottardi,  S.  Kwatra,A. Venkatesh, R. Gabriel, D. Hakkani-T ̈ur, and A. A. AI, (2019)
 “Topical-chat:Towards  knowledge-grounded  open-domain  conversations.”  inINTER-SPEECH, pp. 1891–1895
+
+<a id="5">[5]</a> 
+A. Radford, J. Wu, R. Child, D. Luan, D. Amodei, I. Sutskeveret al.,“Language  models  are  unsupervised  multitask  learners,”OpenAI  blog,vol. 1, no. 8, p. 9, 2019.
+
+<a id="6">[6]</a> 
+J. Devlin, M.-W. Chang, K. Lee, and K. Toutanova, “Bert: Pre-trainingof  deep  bidirectional  transformers  for  language  understanding,”arXivpreprint arXiv:1810.04805, 2018.
+
+<a id="7">[7]</a> 
+M.   Zaheer,   G.   Guruganesh,   K.   A.   Dubey,   J.   Ainslie,   C.   Alberti,S.  Ontanon,  P.  Pham,  A.  Ravula,  Q.  Wang,  L.  Yanget  al.,  “Big  bird:Transformers for longer sequences.” inNeurIPS, 2020.
 
 
 
