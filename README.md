@@ -37,6 +37,8 @@ The packages used in the project can be installed using:
 ``pip install Sentencepiece``
 
 ## Structure
+**models.py:** contains the code of BiLSTM, TextCNN and Transformer class
+
 **train_models.ipynb:** contains the code to: 
  - Fine-tune BERT on standard dataset
  - Fine-tune GPT2 on standard dataset
