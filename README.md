@@ -12,7 +12,7 @@ Members:
 - Siran Li (321825)
 
 ## Datasets 
-1. News reports: 143, 000 articles from 15 American publications
+1. News reports: 143, 000 articles from 15 American publications [[1]](#1).
 2. Ted 2020 Parallel Sentences Corpus: around 4000 TED Talk transcripts from July 2020
 3. Wikipedia corpus: over 10 million topics
 4. Topical-Chat: human dialog conversations spanning 8 broad topics
@@ -46,4 +46,8 @@ You can reproduce the best prediction on the test set of the competition system:
 
 ``python run.py``
 
-
+## References
+<a id="1">[1]</a> 
+A.   Thompson, (2017)
+“All   the   news:   143,000   articles   from   15   americanpublications,”
+https://www.kaggle.com/snapcrack/all-the-new
