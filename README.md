@@ -17,6 +17,8 @@ The packages used in the project can be installed using:
 
 ``pip install ntlk``
 
+``pip install Sentencepiece``
+
 ## Structure
 **train_models.ipynb:** contains the code to fine-tune transformers including BERT, GPT2, BIGBIRD, and BERT followed by downstream classifiers.
 
