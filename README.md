@@ -11,6 +11,16 @@ Members:
 
 - Siran Li (321825)
 
+## Datasets 
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+1. News reports: 143, 000 articles from 15 American publications
+2. Ted 2020 Parallel Sentences Corpus: around 4000 TED Talk transcripts from July 2020
+3. Wikipedia corpus: over 10 million topics
+4. Topical-Chat: human dialog conversations spanning 8 broad topics
+
 ## Notes
 The packages used in the project can be installed using:
 
