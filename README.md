@@ -39,7 +39,7 @@ The packages used in the project can be installed using:
 ``pip install Sentencepiece``
 
 ## Structure
-**models.py:** contains the code of BiLSTM, TextCNN and Transformer class
+**models.py:** contains the model definition code of BiLSTM, TextCNN and Transformer class
 
 **Pre-processing.ipynb:** contains the code to preprocess raw text 
 
