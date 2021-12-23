@@ -73,7 +73,7 @@ K.  Gopalakrishnan,  B.  Hedayatnia,  Q.  Chen,  A.  Gottardi,  S.  Kwatra,A. Ve
 “Topical-chat:Towards  knowledge-grounded  open-domain  conversations.”  inINTER-SPEECH, pp. 1891–1895
 
 <a id="5">[5]</a> 
-Hugging face is an AI community to provide open source NLP softwares https://huggingface.co/
+Hugging face is an AI community to provide open source NLP softwares, https://huggingface.co/
 
 <a id="6">[6]</a> 
 A. Radford, J. Wu, R. Child, D. Luan, D. Amodei, I. Sutskeveret al.,“Language  models  are  unsupervised  multitask  learners,”OpenAI  blog,vol. 1, no. 8, p. 9, 2019.
