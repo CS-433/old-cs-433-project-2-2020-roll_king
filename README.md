@@ -71,7 +71,7 @@ You can train the models in:
 
 ``train_models.ipynb``
 
-All the necessary datasets and models for training and reproducing the results using ``reproduce.ipynb`` and ``train_models.ipynb`` can be downloaded at:
+All the necessary datasets and models for training and reproducing the results using ``reproduce.ipynb`` and ``train_models.ipynb`` can be downloaded at: https://drive.google.com/drive/u/1/folders/1sRMolxsVHLiLphfnS4NpDM0766XFOkZU
 
 
 ## References
