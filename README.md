@@ -60,6 +60,8 @@ The preprocessing of raw text can be reproduced in:
 
 ``Pre-processing.ipynb``
 
+However, as the raw data is too large. We didn't put them on Github. You can directly use train and test the model using processed datasets (without running Pre-processing).
+
 You can reproduce the test performances of different models in:
 
 ``reproduce.ipynb``
