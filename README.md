@@ -19,10 +19,11 @@ Members:
 4. Topical-Chat: human dialog conversations spanning 8 broad topics [[4]](#4).
 
 ## Transformers
+Note all below pre-trained transformers from Hugging face 
 
-1. Generative Pre-trained Transformer 2 (GPT-2) [[5]](#5).
-2. Bidirectional Encoder Representations from Trans-formers (BERT) [[6]](#6).
-3. Big Bird: Transformers for Longer Sequences [[7]](#7).
+1. Generative Pre-trained Transformer 2 (GPT-2) [[6]](#6).
+2. Bidirectional Encoder Representations from Trans-formers (BERT) [[7]](#7).
+3. Big Bird: Transformers for Longer Sequences [[8]](#8).
 
 ## Notes
 The packages used in the project can be installed using:
@@ -72,12 +73,15 @@ K.  Gopalakrishnan,  B.  Hedayatnia,  Q.  Chen,  A.  Gottardi,  S.  Kwatra,A. Ve
 “Topical-chat:Towards  knowledge-grounded  open-domain  conversations.”  inINTER-SPEECH, pp. 1891–1895
 
 <a id="5">[5]</a> 
-A. Radford, J. Wu, R. Child, D. Luan, D. Amodei, I. Sutskeveret al.,“Language  models  are  unsupervised  multitask  learners,”OpenAI  blog,vol. 1, no. 8, p. 9, 2019.
+Hugging face is an AI community to provide open source NLP softwares https://huggingface.co/
 
 <a id="6">[6]</a> 
-J. Devlin, M.-W. Chang, K. Lee, and K. Toutanova, “Bert: Pre-trainingof  deep  bidirectional  transformers  for  language  understanding,”arXivpreprint arXiv:1810.04805, 2018.
+A. Radford, J. Wu, R. Child, D. Luan, D. Amodei, I. Sutskeveret al.,“Language  models  are  unsupervised  multitask  learners,”OpenAI  blog,vol. 1, no. 8, p. 9, 2019.
 
 <a id="7">[7]</a> 
+J. Devlin, M.-W. Chang, K. Lee, and K. Toutanova, “Bert: Pre-trainingof  deep  bidirectional  transformers  for  language  understanding,”arXivpreprint arXiv:1810.04805, 2018.
+
+<a id="8">[8]</a> 
 M.   Zaheer,   G.   Guruganesh,   K.   A.   Dubey,   J.   Ainslie,   C.   Alberti,S.  Ontanon,  P.  Pham,  A.  Ravula,  Q.  Wang,  L.  Yanget  al.,  “Big  bird:Transformers for longer sequences.” inNeurIPS, 2020.
 
 
