@@ -20,7 +20,7 @@ Members:
 
 ## Transformers
 
-Note all below pre-trained transformers from Hugging face [[5]](#5).
+Note all below pre-trained transformers are from Hugging face [[5]](#5).
 
 1. Generative Pre-trained Transformer 2 (GPT-2) [[6]](#6).
 2. Bidirectional Encoder Representations from Trans-formers (BERT) [[7]](#7).
