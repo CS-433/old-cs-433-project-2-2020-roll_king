@@ -15,7 +15,7 @@ Members:
 1. News reports: 143, 000 articles from 15 American publications [[1]](#1).
 2. Ted 2020 Parallel Sentences Corpus: around 4000 TED Talk transcripts from July 2020 [[2]](#2).
 3. Wikipedia corpus: over 10 million topics [[3]](#3).
-4. Topical-Chat: human dialog conversations spanning 8 broad topics
+4. Topical-Chat: human dialog conversations spanning 8 broad topics [[4]](#4).
 
 ## Notes
 The packages used in the project can be installed using:
@@ -59,6 +59,11 @@ N.   Reimers   and   I.   Gurevych, (2020)
 <a id="3">[3]</a> 
 W.   Foundation.   Wikimedia   downloads.
 [Online].   Available:   https://dumps.wikimedia.org
+
+<a id="4">[4]</a> 
+K.  Gopalakrishnan,  B.  Hedayatnia,  Q.  Chen,  A.  Gottardi,  S.  Kwatra,A. Venkatesh, R. Gabriel, D. Hakkani-T ̈ur, and A. A. AI, (2019)
+“Topical-chat:Towards  knowledge-grounded  open-domain  conversations.”  
+inINTER-SPEECH, pp. 1891–1895
 
 
 
