@@ -4,11 +4,12 @@
 This is a repository for all code of project 2
 
 Members:
-Bohan Wang (321293)
 
-Ke Wang (326760)
+- Bohan Wang (321293)
 
-Siran Li (321825)
+- Ke Wang (326760)
+
+- Siran Li (321825)
 
 ## Notes
 The packages used in the project can be installed using:
