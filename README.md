@@ -19,7 +19,8 @@ Members:
 4. Topical-Chat: human dialog conversations spanning 8 broad topics [[4]](#4).
 
 ## Transformers
-Note all below pre-trained transformers from Hugging face 
+
+Note all below pre-trained transformers from Hugging face [[5]](#5).
 
 1. Generative Pre-trained Transformer 2 (GPT-2) [[6]](#6).
 2. Bidirectional Encoder Representations from Trans-formers (BERT) [[7]](#7).
