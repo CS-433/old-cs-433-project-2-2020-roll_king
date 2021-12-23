@@ -30,6 +30,8 @@ Note all below pre-trained transformers are from Hugging face [[5]](#5).
 ## Notes
 The packages used in the project can be installed using:
 
+``pip install datasets``
+
 ``pip install transformers``
 
 ``pip install ntlk``
