@@ -39,6 +39,8 @@ The packages used in the project can be installed using:
 ## Structure
 **models.py:** contains the code of BiLSTM, TextCNN and Transformer class
 
+**Pre-processing.ipynb:** contains the code to preprocess raw text 
+
 **train_models.ipynb:** contains the code to: 
  - Fine-tune BERT on standard dataset
  - Fine-tune GPT2 on standard dataset
@@ -52,15 +54,18 @@ The packages used in the project can be installed using:
 **random_forest.ipynb:** contains the code to aggregate five trained models with random forest.
 
 ## Instuctions
-The feature engineering and models evaluations can be reproduced in:
+The preprocessing of raw text can be reproduced in:
 
-``project1.ipynb``
+``Pre-processing.ipynb``
 
-Note: we change the labels from {-1, 1} to {0, 1} for our logistic regression, which can make it model the probability.
+You can reproduce the test performances of different models in:
 
-You can reproduce the best prediction on the test set of the competition system:
+``reproduce.ipynb``
 
-``python run.py``
+You can train the models in:
+
+``train_models.ipynb``
+
 
 ## References
 <a id="1">[1]</a> 
