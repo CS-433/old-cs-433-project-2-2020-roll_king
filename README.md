@@ -62,8 +62,7 @@ W.   Foundation.   Wikimedia   downloads.
 
 <a id="4">[4]</a> 
 K.  Gopalakrishnan,  B.  Hedayatnia,  Q.  Chen,  A.  Gottardi,  S.  Kwatra,A. Venkatesh, R. Gabriel, D. Hakkani-T ̈ur, and A. A. AI, (2019)
-“Topical-chat:Towards  knowledge-grounded  open-domain  conversations.”  
-inINTER-SPEECH, pp. 1891–1895
+“Topical-chat:Towards  knowledge-grounded  open-domain  conversations.”  inINTER-SPEECH, pp. 1891–1895
 
 
 
