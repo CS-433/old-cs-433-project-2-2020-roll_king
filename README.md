@@ -41,6 +41,8 @@ The packages used in the project can be installed using:
 ## Structure
 **models.py:** contains the model definition code of BiLSTM, TextCNN and Transformer class
 
+**utils.ipynb:** contains the helper functions for pre-processing
+
 **Pre-processing.ipynb:** contains the code to preprocess raw text 
 
 **train_models.ipynb:** contains the code to: 
@@ -51,7 +53,6 @@ The packages used in the project can be installed using:
  - BERT word embedding + TextCNN
  - Fine-tune BERT on large data set
  - Fine-tune BERT with multi-label data
-
 
 **random_forest.ipynb:** contains the code to aggregate five trained models with random forest.
 
