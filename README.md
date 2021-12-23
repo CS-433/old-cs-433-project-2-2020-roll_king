@@ -45,7 +45,7 @@ The packages used in the project can be installed using:
  - BERT word embedding + TextCNN
  - Fine-tune BERT on large data set
  - Fine-tune BERT with multi-label data
- fine-tune transformers including BERT, GPT2, BIGBIRD, and BERT followed by downstream classifiers.
+
 
 **random_forest.ipynb:** contains the code to aggregate five trained models with random forest.
 
