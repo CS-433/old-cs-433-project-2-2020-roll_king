@@ -1,5 +1,6 @@
 # Project 2 (EPFL Machine Learning Course CS-433)
-# Sentence classification
+
+# Complete Sentence Detection for SpeechRecognition Systems
 
 This is a repository for all code of project 2
 
