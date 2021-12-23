@@ -13,7 +13,7 @@ Members:
 
 ## Datasets 
 1. News reports: 143, 000 articles from 15 American publications [[1]](#1).
-2. Ted 2020 Parallel Sentences Corpus: around 4000 TED Talk transcripts from July 2020
+2. Ted 2020 Parallel Sentences Corpus: around 4000 TED Talk transcripts from July 2020 [[2]](#2).
 3. Wikipedia corpus: over 10 million topics
 4. Topical-Chat: human dialog conversations spanning 8 broad topics
 
@@ -51,3 +51,10 @@ You can reproduce the best prediction on the test set of the competition system:
 A.   Thompson, (2017)
 “All   the   news:   143,000   articles   from   15   americanpublications,”
 https://www.kaggle.com/snapcrack/all-the-new
+
+<a id="2">[2]</a> 
+N.   Reimers   and   I.   Gurevych, (2020)
+“Making   monolingual   sentence   em-beddings   multilingual   using   knowledge   distillation,” arXiv   preprintarXiv:2004.09813
+
+
+
