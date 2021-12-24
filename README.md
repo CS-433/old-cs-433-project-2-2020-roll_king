@@ -63,7 +63,7 @@ The preprocessing of raw text can be reproduced in:
 
 However, as the raw data is too large. We didn't put them on Github. You can directly use train and test the model using processed datasets (without running Pre-processing).
 
-You can reproduce the test performances of different models in:
+You can reproduce the test performances of different models in: https://drive.google.com/drive/folders/1sRMolxsVHLiLphfnS4NpDM0766XFOkZU?usp=sharing
 
 ``reproduce.ipynb``
 
@@ -71,7 +71,7 @@ You can train the models in:
 
 ``train_models.ipynb``
 
-All the necessary datasets and models for training and reproducing the results using ``reproduce.ipynb`` and ``train_models.ipynb`` can be downloaded at: https://drive.google.com/drive/u/1/folders/1sRMolxsVHLiLphfnS4NpDM0766XFOkZU
+All the necessary datasets and models for training and reproducing the results using ``reproduce.ipynb`` and ``train_models.ipynb`` can be downloaded at: 
 
 
 ## References
